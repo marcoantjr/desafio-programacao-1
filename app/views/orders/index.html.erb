@@ -1,46 +1,46 @@
 <h1>Desafio - Rails</h1>
 
 <div>
-    
-    <% flash.each do |key, value| %>
-        <div class="alert alert-<%= key %>"><%= value %></div>
-        <br>
-    <% end %>
-
+<%= render 'upload' %>
 </div>
 
-
-<div>
-    
-<%= render 'upload' %>
-
-<table>
+<table border = 1>
     <thead>
         <tr>
             <th>Order Id</th>
+            <th>Owner</th>
             <th>Filename</th>
             <th>Total</th>
-        <th>Created At</th>
-    </tr>
+            <th>Created</th>
+        </tr>
     <tbody>
         <% @orders.each do |order| %>
  			<tr>
  				<td>
- 					<%=link_to order.id, order%>
+ 					<%= order.id %>
  				</td>
  				<td>
+                    <%=order.user.email%>
+                </td>
+                <td>
                     <%=order.filename%>
  				</td>
+                
  				<td>
  					<%=order.price%>
  				</td>
  				<td>
  					<%=time_ago_in_words(order.created_at)%>
  				</td>
- 				<td>
- 				    <%= link_to 'Delete', order, method: :delete, data: { confirm: 'Are you sure?' } %>
- 				</td>
- 		    </tr>
-         <% end %>
-     </tbody>
- </table>
+                <td>
+                    <%= link_to 'View', order %>
+                </td>
+ 				<% if current_user == order.user %>
+                    <td>
+ 				       <%= link_to 'Delete', order, method: :delete, data: { confirm: 'Are you sure?' } %>
+ 				   </td>
+                <% end %>
+		    </tr>
+        <% end %>
+    </tbody>
+</table>

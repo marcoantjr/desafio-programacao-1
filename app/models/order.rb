@@ -8,10 +8,9 @@ class Order < ActiveRecord::Base
 require 'csv'
   
   def import(file)
-    filepath = "#{Rails.root}/example_input.tab"
-  	fullprice = 0.0
+    fullprice = 0.0
 
-			CSV.foreach(filepath, { :headers => true, :col_sep => "\t", :skip_blanks => true }) do |item|
+			CSV.foreach(file.path, { :headers => true, :col_sep => "\t", :skip_blanks => true }) do |item|
 		    	purchaser_name	= item[0]
 					item_description = item[1]
 					item_price = BigDecimal.new(item[2])
@@ -28,7 +27,7 @@ require 'csv'
 
   				fullprice += price
     	end
-    self.update(filename: filepath, price: fullprice)
+    self.update(filename: file.original_filename, price: fullprice)
   end
 
 

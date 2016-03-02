@@ -1,5 +1,7 @@
 class OrdersController < ApplicationController
 
+	before_filter :authenticate_user!
+
 	before_action :find_order, only: [:show, :destroy]
 
 	def index
@@ -19,11 +21,10 @@ class OrdersController < ApplicationController
     	begin
     		@order = Order.new(user_id: current_user.id)
     		@order.import(params[:file])
-    		
     		flash[:success] = "File successuly imported!"
 	    	redirect_to root_url
     	rescue
-    		flash[:error] = "Error: The #{@file} cannot be imported."
+    		flash[:error] = "Error: The #{@file.original_filename} cannot be imported."
     		@order.destroy
     		redirect_to root_url
    		end
