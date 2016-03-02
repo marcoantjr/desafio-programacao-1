@@ -1,0 +1,1116 @@
+Gn-1-1|O começo
+Gn-2-4|Adão e Eva
+Gn-3-1|A queda do homem
+Gn-4-1|Caim e Abel
+Gn-5-1|Desde Adão a Noé
+Gn-6-1|O dilúvio
+Gn-9-1|A aliança de Deus com Noé
+Gn-9-18|Os filhos de Noé
+Gn-10-1|O mapa das nações
+Gn-11-1|A torre de Babel
+Gn-11-10|Desde Sem a Abrão
+Gn-12-1|A chamada de Abrão
+Gn-12-10|Abrão no Egipto
+Gn-13-1|Abrão e Lot separam-se
+Gn-14-1|Abrão salva Lot
+Gn-15-1|A aliança de Deus com Abrão
+Gn-16-1|Agar e Ismael
+Gn-17-1|A aliança da circuncisão
+Gn-18-1|Os três visitantes
+Gn-18-17|Abraão intercede por Sodoma
+Gn-19-1|Sodoma e Gomorra destruídas
+Gn-19-30|Lot e as suas filhas
+Gn-20-1|Abraão e Abimeleque
+Gn-21-1|O nascimento de Isaque
+Gn-21-8|Agar e Ismael mandados embora
+Gn-21-22|O acordo em Berseba
+Gn-22-1|Abraão é provado
+Gn-22-20|Os filhos de Naor
+Gn-23-1|A morte de Sara
+Gn-24-1|Isaque e Rebeca
+Gn-25-1|A morte de Abraão
+Gn-25-12|Os filhos de Ismael
+Gn-25-19|Jacob e Esaú
+Gn-26-1|Isaque e Abimeleque
+Gn-27-1|Jacob recebe a bênção de Isaque
+Gn-27-41|Jacob foge para Labão
+Gn-28-10|O sonho de Jacob em Betel
+Gn-29-1|Jacob chega a Padan-Arã
+Gn-29-16|Jacob casa com Leia e Raquel
+Gn-29-31|Os filhos de Jacob
+Gn-30-25|Os rebanhos de Jacob aumentam
+Gn-31-1|Jacob foge de Labão
+Gn-31-22|Labão persegue Jacob
+Gn-32-1|Jacob prepara-se para se encontrar com Esaú
+Gn-32-22|Jacob luta com Deus
+Gn-33-1|Jacob encontra-se com Esaú
+Gn-34-1|Dina e Siquem
+Gn-35-1|Jacob volta a Betel
+Gn-35-16|A morte de Raquel e Isaque
+Gn-36-1|Os descendentes de Esaú
+Gn-36-31|Os chefes de Edom
+Gn-37-1|O sonho de José
+Gn-37-12|José é vendido pelos irmãos
+Gn-38-1|Judá e Tamar
+Gn-39-1|José e a mulher de Potifar
+Gn-40-1|O chefe de vinhos e o padeiro
+Gn-41-1|O sonho de Faraó
+Gn-41-41|José, governador do Egipto
+Gn-42-1|Os irmãos de José vão ao Egipto
+Gn-43-1|A segunda viagem ao Egipto
+Gn-44-1|A taça de prata no saco
+Gn-45-1|José dá-se a conhecer
+Gn-46-1|Jacob vai para o Egipto
+Gn-47-13|José e a fome
+Gn-48-1|Manassés e Efraim
+Gn-49-1|Jacob abençoa os filhos
+Gn-49-28|A morte de Jacob
+Gn-50-22|A morte de José
+Ex-1-1|Os israelitas oprimidos
+Ex-2-1|O nascimento de Moisés
+Ex-2-11|Moisés mata um egípcio e foge
+Ex-3-1|A sarça ardente
+Ex-4-1|Sinais para Moisés
+Ex-4-18|Moisés volta ao Egipto
+Ex-5-1|Tijolos sem palha
+Ex-6-1|O Senhor promete libertação
+Ex-6-14|Genealogias de Moisés e Arão
+Ex-7-1|Arão porta-voz de Moisés
+Ex-7-8|A vara de Moisés transforma-se numa serpente
+Ex-7-14|A praga das águas tornadas em sangue
+Ex-8-1|A praga das rãs
+Ex-8-16|A praga dos piolhos
+Ex-8-20|A praga das moscas
+Ex-9-1|A peste nos animais
+Ex-9-8|A praga das chagas
+Ex-9-13|A praga da saraiva
+Ex-10-1|A praga dos gafanhotos
+Ex-10-21|A praga das trevas
+Ex-11-1|A morte dos primogénitos
+Ex-12-1|A Páscoa
+Ex-12-28|O êxodo
+Ex-12-42|A instituição da Páscoa
+Ex-13-1|A consagração dos primogénitos
+Ex-13-17|A travessia do mar
+Ex-14-1|A perseguição dos egípcios
+Ex-14-15|A passagem pelo meio do mar
+Ex-15-1|O cântico de Moisés
+Ex-15-22|As águas de Mara e Elim
+Ex-16-1|O maná e as codornizes
+Ex-17-1|Água da rocha
+Ex-17-8|A derrota dos amelequitas
+Ex-18-1|Jetro visita Moisés
+Ex-19-1|Deus fala do Monte Sinai
+Ex-20-1|Os dez mandamentos de Deus
+Ex-20-22|Ídolos e altares
+Ex-21-1|Mandamentos sobre servos
+Ex-21-12|Ferimentos pessoais
+Ex-22-1|Protecção da propriedade
+Ex-22-16|Responsabilidade social
+Ex-23-1|Leis de justiça e misericórdia
+Ex-23-10|Leis sobre o sábado
+Ex-23-14|As três festas anuais
+Ex-23-20|O anjo de Deus
+Ex-24-1|A aliança confirmada
+Ex-25-1|Ofertas para o tabernáculo
+Ex-25-10|A arca
+Ex-25-23|A mesa
+Ex-25-31|O castiçal
+Ex-26-1|O tabernáculo
+Ex-27-1|O altar para o holocausto
+Ex-27-9|O pátio
+Ex-27-20|Óleo para as lâmpadas
+Ex-28-1|Vestimentas para os sacerdotes
+Ex-28-5|O éfode
+Ex-28-15|O peitoral
+Ex-28-31|Outras vestes sacerdotais
+Ex-29-1|A consagração dos sacerdotes
+Ex-30-1|O altar do incenso
+Ex-30-11|O dinheiro do resgate
+Ex-30-17|A bacia para as lavagens
+Ex-30-22|O óleo da unção
+Ex-30-34|A preparação do incenso
+Ex-31-1|Bezalel e Aoliabe
+Ex-31-12|O sábado
+Ex-32-1|O bezerro de ouro
+Ex-33-7|A tenda do encontro com Deus
+Ex-33-12|Moisés e a glória do Senhor
+Ex-34-1|Novas placas de pedra
+Ex-34-29|O rosto radiante de Moisés
+Ex-35-1|As instruções sobre o sábado
+Ex-35-4|Ofertas para o tabernáculo
+Ex-35-30|Os chefes do projecto
+Ex-36-8|O tabernáculo
+Ex-37-1|A arca
+Ex-37-10|A mesa
+Ex-37-17|O castiçal
+Ex-37-25|O altar do incenso
+Ex-38-1|O altar do holocausto
+Ex-38-9|O pátio
+Ex-38-21|Os materiais utilizados
+Ex-39-1|As vestes dos sacerdotes
+Ex-39-32|Moisés inspecciona o tabernáculo
+Ex-40-1|A montagem do tabernáculo
+Ex-40-34|A glória do Senhor
+Lv-2-1|A oferta de cereais
+Lv-3-1|Sacrifício de gratidão
+Lv-4-1|A oferta pelos pecados
+Lv-5-14|A oferta de culpa
+Lv-6-8|Os holocaustos
+Lv-6-14|A oferta de cereais
+Lv-6-24|A oferta pelo pecado
+Lv-7-1|A oferta pela culpa
+Lv-7-11|A oferta de paz
+Lv-7-22|Proibido comer sangue e gordura
+Lv-7-28|A porção de Arão e seus filhos
+Lv-8-1|A ordenação de Arão e dos seus filhos
+Lv-9-1|Os sacerdotes começam o seu ministério
+Lv-10-1|A morte de Nadabe e Abiú
+Lv-11-1|Animais que se pode e que não se pode comer
+Lv-12-1|Purificação após o parto
+Lv-13-1|Leis referentes à lepra
+Lv-14-1|A purificação da lepra
+Lv-15-1|Impurezas do homem
+Lv-15-19|Impurezas da mulher
+Lv-16-1|O dia de expiação
+Lv-17-1|Proibição de comer sangue
+Lv-18-1|Regras sobre relações sexuais
+Lv-19-1|Repetição de diversas leis
+Lv-20-1|Penas para diversos crimes
+Lv-21-1|Leis para os sacerdotes
+Lv-22-17|Os animais para o sacrifício
+Lv-23-1|Festas solenes
+Lv-23-5|A Páscoa e a festa dos pães sem fermento
+Lv-23-9|A festa dos primeiros frutos
+Lv-23-15|A festa de pentecostes
+Lv-23-23|A festa das trombetas
+Lv-23-26|O dia da expiação
+Lv-23-33|A festa dos tabernáculos
+Lv-24-1|As lâmpadas de azeite e o pão consagrado
+Lv-24-10|O castigo por blasfémia
+Lv-25-1|O ano sabático
+Lv-25-8|O ano de jubileu
+Lv-26-1|A bênção pela obediência
+Lv-26-14|O castigo por desobediência
+Lv-27-1|Normas para coisas consagradas
+Nm-1-1|Recenseamento dos israelitas
+Nm-2-1|Disposição das tribos quando acampadas
+Nm-3-1|A tribo de Levi
+Nm-4-1|Os coatitas
+Nm-4-21|Os gersonitas
+Nm-4-29|Os meraritas
+Nm-4-34|As divisões de levitas são contadas
+Nm-5-1|A pureza do acampamento
+Nm-5-11|O teste da culpa de uma mulher infiel
+Nm-6-1|Os nazireus
+Nm-6-22|A bênção sacerdotal
+Nm-7-1|As ofertas de consagração do tabernáculo
+Nm-8-1|A montagem das lâmpadas
+Nm-8-5|A consagração dos levitas
+Nm-9-1|Celebração da Páscoa
+Nm-9-15|A nuvem por cima do tabernáculo
+Nm-10-1|As duas trombetas de prata
+Nm-10-11|Os israelitas deixam o Sinai
+Nm-11-1|Fogo do Senhor
+Nm-11-4|Deus envia codornizes
+Nm-12-1|Miriam e Arão opõem-se a Moisés
+Nm-13-1|Envio de exploradores a Canaã
+Nm-13-25|O relatório da expedição
+Nm-14-1|Os israelitas querem voltar para o Egipto
+Nm-15-1|Ofertas suplementares
+Nm-15-22|Sacrifícios por culpa involuntária
+Nm-15-32|Desrespeito à lei do sábado leva à morte
+Nm-15-37|As borlas nas roupas
+Nm-16-1|A revolta de Coré
+Nm-17-1|A vara de Arão floresce
+Nm-18-1|Deveres dos sacerdotes e levitas
+Nm-18-8|As ofertas para os sacerdotes e levitas
+Nm-19-1|Preceitos de purificação cerimonial
+Nm-20-1|Moisés faz sair água do rochedo
+Nm-20-14|O rei de Edom nega passagem aos israelitas
+Nm-20-23|A morte de Arão
+Nm-21-1|Vitória sobre os cananeus
+Nm-21-4|A serpente de bronze
+Nm-21-10|A jornada para Moabe
+Nm-21-21|A derrota dos reis Siom e Ogue
+Nm-22-1|Balaque chama Balaão
+Nm-22-21|A jumenta de Balaão
+Nm-23-1|A primeira profecia de Balaão
+Nm-23-13|A segunda profecia de Balaão
+Nm-23-27|A terceira profecia de Balaão
+Nm-24-15|A quarta profecia de Balaão
+Nm-24-20|A profecia final de Balaão
+Nm-25-1|Moabe seduz Israel
+Nm-26-1|O segundo recenseamento
+Nm-27-1|As filhas de Zelofeade
+Nm-27-12|Josué sucessor de Moisés
+Nm-28-1|Ofertas diárias
+Nm-28-9|Ofertas no sábado
+Nm-28-11|Ofertas mensais
+Nm-28-16|A Páscoa
+Nm-28-26|A festa dos primeiros frutos
+Nm-29-1|A festa das trombetas
+Nm-29-7|O dia da expiação
+Nm-29-12|A festa de tabernáculos
+Nm-30-1|As promessas ao Senhor
+Nm-31-1|A vingança contra os midianitas
+Nm-31-25|Repartição dos despojos
+Nm-32-1|Rúben e Gad ficam aquém do Jordão
+Nm-32-33|Meia-tribo de Manassés fica a oriente do Jordão
+Nm-33-1|O percurso do povo no deserto
+Nm-34-1|Os limites de Canaã
+Nm-35-1|As cidades para os levitas
+Nm-35-6|As cidades de refúgio
+Nm-36-1|A herança das filhas de Zelofeade
+Dt-1-1|Ordem para deixar Horebe
+Dt-1-9|Moisés nomeia auxiliares
+Dt-1-26|Rebelião contra o Senhor
+Dt-2-1|Jornadas no deserto
+Dt-2-26|A derrota do rei Siom de Hesbom
+Dt-3-1|A derrota do rei Ogue de Basã
+Dt-3-12|A divisão da terra
+Dt-3-21|Deus proíbe Moisés de atravessar o Jordão
+Dt-4-1|Exortação à obediência
+Dt-4-15|A idolatria é proibida
+Dt-4-32|O Senhor é Deus
+Dt-4-41|Cidades de refúgio
+Dt-4-44|Introdução à lei
+Dt-5-1|Os dez mandamentos de Deus
+Dt-6-1|Amor e fidelidade a Deus
+Dt-7-1|A destruição das nações
+Dt-8-1|Memória das bênçãos do Senhor
+Dt-9-1|A razão da vitória
+Dt-9-7|O bezerro de ouro
+Dt-10-1|Novas tábuas da lei
+Dt-10-12|Temer e obedecer ao Senhor
+Dt-11-1|Os grandes feitos de Deus
+Dt-12-1|Um único lugar de culto
+Dt-13-1|Contra os falsos deuses
+Dt-14-1|Comida pura e impura
+Dt-14-22|O dízimo
+Dt-15-1|O ano de cancelar as dívidas
+Dt-15-12|A libertação dos escravos
+Dt-15-19|O primogénito dos animais
+Dt-16-1|A Páscoa
+Dt-16-9|A festa das semanas
+Dt-16-13|A festa dos tabernáculos
+Dt-16-18|Os juízes
+Dt-16-21|Não à idolatria
+Dt-17-8|Os tribunais
+Dt-17-14|O rei
+Dt-18-1|As ofertas para os sacerdotes e os levitas
+Dt-18-9|As práticas detestáveis
+Dt-18-15|O profeta
+Dt-19-1|Cidades de refúgio
+Dt-19-15|As testemunhas
+Dt-20-1|Leis de guerra
+Dt-21-1|Absolvição por assassínio incógnito
+Dt-21-10|Casamento com uma mulher cativa
+Dt-21-15|Direitos dos primogénitos
+Dt-21-18|Um filho rebelde
+Dt-21-22|Normas diversas
+Dt-22-13|Violação e adultério
+Dt-23-1|Exclusão da assembleia
+Dt-23-9|Impureza no acampamento
+Dt-23-15|Diversas leis
+Dt-24-1|Normas sobre vários domínios
+Dt-26-1|Os primeiros frutos e os dízimos
+Dt-26-16|Obediência aos mandamentos do Senhor
+Dt-27-1|O altar no monte Ebal
+Dt-27-9|Maldição do monte Ebal
+Dt-28-1|Bênção para a obediência
+Dt-28-15|Consequências da desobediência
+Dt-29-1|A renovação da aliança
+Dt-30-1|Bênçãos após o arrependimento
+Dt-30-11|A escolha da vida ou da morte
+Dt-31-1|Josué sucessor de Moisés
+Dt-31-9|A leitura da lei
+Dt-31-14|A sucessão de Moisés
+Dt-31-30|O cântico de Moisés
+Dt-32-48|Moisés sobe ao monte Nebo
+Dt-33-1|Moisés abençoa as tribos
+Dt-34-1|Moisés morre
+Js-1-1|O Senhor comissiona Josué
+Js-2-1|Raabe e os espiões
+Js-3-1|A travessia do Jordão
+Js-5-1|A circuncisão em Gilgal
+Js-5-13|A conquista de Jericó
+Js-7-1|O pecado de Acã
+Js-8-1|A destruição de Ai
+Js-8-30|A aliança renovada no monte Ebal
+Js-9-1|O ardil do povo de Gibeão
+Js-10-1|Josué socorre Gibeão e o Sol pára
+Js-10-16|A morte de cinco reis amorreus
+Js-10-28|A conquista de cidades do sul
+Js-11-1|A derrota dos reis do norte
+Js-12-1|A lista dos reis derrotados
+Js-13-1|A terra por conquistar
+Js-13-8|A divisão da terra ao oriente do Jordão
+Js-14-1|A divisão da terra ao ocidente do Jordão
+Js-14-6|Hebrom é dado a Calebe
+Js-15-1|O território dado a Judá
+Js-16-1|O território de Efraim e Manassés
+Js-18-1|A divisão do resto do território
+Js-19-49|O território de Josué
+Js-20-1|As cidades de refúgio
+Js-21-1|As cidades dos levitas
+Js-22-1|As tribos orientais regressam a Gileade
+Js-23-1|Josué despede-se
+Js-24-1|A aliança é renovada em Siquem
+Js-24-29|A morte de Josué
+Jz-1-1|Israel luta contra os restantes cananeus
+Jz-2-1|O anjo do Senhor em Boquim
+Jz-2-6|Josué morre
+Jz-2-10|Desobediência e derrota
+Jz-3-1|Os povos que Israel não expulsou
+Jz-3-8|O juiz Otniel
+Jz-3-15|Eude
+Jz-3-31|Sangar
+Jz-4-1|Débora
+Jz-5-1|O cântico de Débora
+Jz-6-1|Deus chama Gedeão
+Jz-7-1|Gedeão vence os midianitas
+Jz-8-1|Gedeão persegue dois reis
+Jz-8-22|O éfode de Gedeão
+Jz-8-28|A morte de Gedeão
+Jz-9-1|Abimeleque é feito rei
+Jz-10-1|Tola
+Jz-10-3|Jair
+Jz-10-6|Jefta
+Jz-12-1|Efraim contra Jefta
+Jz-12-8|Ibzã, Elom e Abdom
+Jz-13-1|O nascimento de Sansão
+Jz-14-1|O casamento de Sansão
+Jz-15-1|A vingança de Sansão sobre os filisteus
+Jz-16-1|Sansão e Dalila
+Jz-16-23|A morte de Sansão
+Jz-17-1|Os ídolos do Mica
+Jz-18-1|A tribo de Dan estabelece-se em Laís
+Jz-19-1|O levita e a sua concubina
+Jz-20-1|Os israelitas lutam contra os benjamitas
+Jz-21-1|Mulheres para os benjamitas
+Rt-1-1|Noemi e Rute
+Rt-2-1|Rute no campo de Boaz
+Rt-3-1|Rute e Boaz na eira
+Rt-4-1|Boaz casa com Rute
+Rt-4-13|A genealogia de David
+1Sm-1-1|O nascimento de Samuel
+1Sm-2-1|A oração de Ana
+1Sm-2-12|A maldade dos filhos de Eli
+1Sm-2-27|Profecia contra a casa de Eli
+1Sm-3-1|Samuel chamado pelo Senhor
+1Sm-4-1|A arca é capturada pelos filisteus
+1Sm-4-12|A morte de Eli
+1Sm-5-1|A arca em Asdode e em Ecrom
+1Sm-6-1|A arca é devolvida a Israel
+1Sm-7-7|A derrota dos filisteus em Mizpá
+1Sm-8-1|Os israelitas querem um rei
+1Sm-9-1|Saul procura Samuel
+1Sm-10-1|Saul ungido por Samuel
+1Sm-10-9|Saul feito rei
+1Sm-11-1|Saul salva a cidade de Jabes
+1Sm-11-12|Saul confirmado como rei
+1Sm-12-1|O discurso de Samuel
+1Sm-13-1|Samuel repreende Saul
+1Sm-13-15|Israel sem armas
+1Sm-14-1|Jónatas ataca os filisteus
+1Sm-14-15|Israel derrota os filisteus
+1Sm-14-24|Saul amaldiçoa quem comer
+1Sm-14-49|A família de Saul
+1Sm-15-1|O Senhor rejeita Saul como rei
+1Sm-16-1|David é escolhido e ungido
+1Sm-16-14|David ao serviço de Saul
+1Sm-17-1|David e Golias
+1Sm-18-1|Saul tem ciúmes de David
+1Sm-19-1|Saul tenta matar David
+1Sm-20-1|David e Jónatas fazem uma aliança
+1Sm-21-1|David em Nobe
+1Sm-21-10|David em Gate
+1Sm-22-1|David em Adulão e Mizpá
+1Sm-22-5|Saul mata os sacerdotes de Nobe
+1Sm-23-1|David salva Queila
+1Sm-23-7|Saul persegue David
+1Sm-24-1|David poupa a vida a Saul
+1Sm-25-1|David, Nabal e Abigail
+1Sm-26-1|David poupa de novo a vida de Saul
+1Sm-27-1|David entre os filisteus
+1Sm-28-1|Saul e a bruxa de Endor
+1Sm-29-1|Os filisteus rejeitam o apoio de David
+1Sm-30-1|David destrói os amalequitas
+1Sm-31-1|Morte de Saul e dos filhos
+2Sm-1-1|David sabe da morte de Saul
+2Sm-1-17|Cântico de David sobre a morte de Saul e de Jónatas
+2Sm-2-1|David é ungido rei sobre Judá
+2Sm-2-8|Guerra entre os exércitos de David e de Saul
+2Sm-3-6|Abner junta-se a David
+2Sm-3-22|Joabe mata Abner
+2Sm-4-1|Isbosete é assassinado
+2Sm-5-1|David reina sobre Israel
+2Sm-5-6|David conquista Jerusalém
+2Sm-5-17|David derrota os filisteus
+2Sm-6-1|A arca é trazida para Jerusalém
+2Sm-7-1|A promessa de Deus a David
+2Sm-7-17|A oração de David
+2Sm-8-1|As vitórias de David
+2Sm-8-15|Os oficiais de David
+2Sm-9-1|David e Mefibosete
+2Sm-10-1|David derrota os amonitas
+2Sm-11-1|David e Bate-Seba
+2Sm-12-1|Natã repreende David
+2Sm-13-1|Amnom e Tamar
+2Sm-13-23|Absalão mata Amnom
+2Sm-14-1|Absalão volta a Jerusalém
+2Sm-15-1|A conspiração de Absalão
+2Sm-15-13|A fuga de David
+2Sm-16-1|David e Ziba
+2Sm-16-5|Simei amaldiçoa David
+2Sm-16-15|O conselho de Husai e Aitofel
+2Sm-18-1|A morte de Absalão
+2Sm-18-19|David chora a morte de Absalão
+2Sm-19-11|David volta a Jerusalém
+2Sm-20-1|Seba rebela-se contra David
+2Sm-21-1|A vingança dos gibeonitas
+2Sm-21-15|Guerra contra os filisteus
+2Sm-22-1|Cântico de David
+2Sm-23-1|As últimas palavras de David
+2Sm-23-8|Os grandes chefes militares de David
+2Sm-24-1|David manda fazer um recenseamento
+2Sm-24-18|David constrói um altar
+1Rs-1-1|Adonias pretende ser rei
+1Rs-1-28|Salomão é proclamado rei
+1Rs-2-1|David aconselha Salomão
+1Rs-2-13|O trono de Salomão é estabelecido
+1Rs-3-1|Salomão pede sabedoria
+1Rs-4-1|Os oficiais e governadores de Salomão
+1Rs-4-29|A sabedoria de Salomão
+1Rs-5-1|Aliança com o rei de Tiro
+1Rs-5-7|O material para o templo
+1Rs-6-1|Salomão edifica o templo
+1Rs-7-1|O palácio de Salomão
+1Rs-7-13|Mobiliário para o templo
+1Rs-8-1|A transferência da arca para o templo
+1Rs-8-22|A oração de Salomão
+1Rs-8-62|A consagração do templo
+1Rs-9-1|Deus fala de novo a Salomão
+1Rs-9-10|Outros feitos de Salomão
+1Rs-10-1|A visita da rainha de Sabá
+1Rs-10-14|O esplendor de Salomão
+1Rs-11-1|As mulheres de Salomão
+1Rs-11-14|Os adversários de Salomão
+1Rs-11-26|Jeroboão rebela-se contra Salomão
+1Rs-11-41|A morte de Salomão
+1Rs-12-1|Israel revolta-se contra Reboão
+1Rs-12-25|Os bezerros de ouro em Betel e em Dan
+1Rs-13-1|O profeta de Deus de Judá
+1Rs-14-1|A profecia de Abias contra Jeroboão
+1Rs-14-21|Reboão é rei de Judá
+1Rs-15-1|Abião é rei de Judá
+1Rs-15-9|Asa é rei de Judá
+1Rs-15-25|Nadabe é rei de Israel
+1Rs-15-28|Basha é rei de Israel
+1Rs-16-8|Elá é rei de Israel
+1Rs-16-15|Zimri é rei de Israel
+1Rs-16-21|Omri é rei de Israel
+1Rs-16-29|Acabe torna-se rei de Israel
+1Rs-17-1|Elias é alimentado por corvos
+1Rs-17-8|A viúva de Zarefate
+1Rs-18-1|Elias e Obadias
+1Rs-18-16|Elias no monte Carmelo
+1Rs-19-1|Elias foge para Horebe
+1Rs-19-9|O Senhor aparece a Elias
+1Rs-19-19|A chamada de Eliseu
+1Rs-20-1|Ben-Hadade ataca Samaria
+1Rs-20-13|Acabe derrota Ben-Hadade
+1Rs-20-35|O profeta reprova Acabe
+1Rs-21-1|A vinha de Nabote
+1Rs-22-1|Micaías profetiza contra Acabe
+1Rs-22-29|A morte de Acabe
+1Rs-22-41|O reinado de Jeosafá
+2Rs-1-1|O julgamento de Deus sobre Acazias
+2Rs-2-1|Elias é arrebatado
+2Rs-2-19|Purificação da água
+2Rs-2-23|Os rapazes fazem troça de Eliseu
+2Rs-3-1|Moabe revolta
+2Rs-4-1|O azeite da viúva
+2Rs-4-8|A ressurreição do filho da sunamita
+2Rs-4-38|O caldo verde venenoso
+2Rs-4-42|Alimentando cem homens
+2Rs-5-1|Naamã é curado da lepra
+2Rs-6-1|Eliseu faz flutuar um ferro
+2Rs-6-8|Deus cega o exército sírio
+2Rs-6-24|Samaria é sitiada
+2Rs-7-3|O cerco é levantado
+2Rs-8-1|A terra da sunamita é restaurada
+2Rs-8-7|Hazael mata Ben-Hadade
+2Rs-8-16|Jeorão é rei de Judá
+2Rs-8-25|Acazias é rei de Judá
+2Rs-9-1|Jeú é ungido rei de Israel
+2Rs-9-14|Jeú mata Jorão e Acazias
+2Rs-9-30|A morte de Jezabel
+2Rs-10-1|A morte da família de Acabe
+2Rs-10-18|Jeú mata todos os sacerdotes de Baal, em Israel
+2Rs-11-1|Atalia e Joás
+2Rs-12-1|Joás repara o templo
+2Rs-13-1|Jeoacaz é rei de Israel
+2Rs-13-10|Jeoás é rei de Israel
+2Rs-13-14|A morte de Eliseu
+2Rs-14-1|Amazias é rei de Judá
+2Rs-14-23|Jeroboão II é rei de Israel
+2Rs-15-1|Azarias é rei de Judá
+2Rs-15-8|Zacarias é rei de Israel
+2Rs-15-13|Salum é rei de Israel
+2Rs-15-16|Menaem é rei de Israel
+2Rs-15-23|Pecaías é rei de Israel
+2Rs-15-27|Peca é rei de Israel
+2Rs-15-32|Jotão é rei de Judá
+2Rs-16-1|Acaz é rei de Judá
+2Rs-17-1|Oseias é o último rei de Israel
+2Rs-17-7|Israel é exilado por causa de pecado
+2Rs-17-24|Samaria é colonizada
+2Rs-18-1|Ezequias é rei de Judá
+2Rs-18-17|Senaqueribe ameaça Jerusalém
+2Rs-19-1|Isaías prediz a retirada dos assírios
+2Rs-19-14|A oração de Ezequias
+2Rs-19-20|Isaías profetiza a queda de Senaqueribe
+2Rs-20-1|A doença de Ezequias
+2Rs-20-12|Os embaixadores da Babilónia
+2Rs-21-1|Manassés é rei de Judá
+2Rs-21-19|Amom é rei de Judá
+2Rs-22-1|O livro da lei é encontrado
+2Rs-23-1|Josias renova a aliança com o Senhor
+2Rs-23-31|Jeoacaz é rei de Judá
+2Rs-23-36|Joaquim é rei de Judá
+2Rs-24-8|Jeconias é rei de Judá
+2Rs-24-18|Zedequias é rei de Judá
+2Rs-25-1|A queda de Jerusalém
+2Rs-25-27|Jeconias é libertado
+1Cr-1-1|De Adão a Abraão
+1Cr-1-43|Os reis de Edom
+1Cr-2-1|A descendência de Judá
+1Cr-2-42|A descendência de Calebe
+1Cr-3-1|A descendência de David
+1Cr-4-1|Outros descendentes de Judá
+1Cr-4-24|A descendência de Simeão
+1Cr-5-1|A descendência de Rúben
+1Cr-5-11|A descendência de Gad
+1Cr-5-23|A meia-tribo de Manassés
+1Cr-6-1|A descendência de Levi
+1Cr-6-31|Os músicos do templo
+1Cr-7-1|A descendência de Issacar
+1Cr-7-6|A descendência de Benjamim
+1Cr-7-13|A descendência de Naftali
+1Cr-7-14|A descendência de Manassés
+1Cr-7-20|A descendência de Efraim
+1Cr-7-30|A descendência de Aser
+1Cr-8-1|Os descendentes de Benjamim
+1Cr-9-1|O povo de Jerusalém
+1Cr-9-35|A genealogia de Saul
+1Cr-10-1|Saul suicida-se
+1Cr-11-1|David é feito rei sobre Israel
+1Cr-11-3|David conquista Jerusalém
+1Cr-11-10|Os homens poderosos de David
+1Cr-12-1|O exército de David
+1Cr-13-1|A mudança da arca
+1Cr-14-1|O palácio e a família de David
+1Cr-14-8|David derrota os filisteus
+1Cr-15-1|A arca retorna a Jerusalém
+1Cr-16-8|Salmo de David
+1Cr-17-1|A promessa de Deus a David
+1Cr-17-15|A oração de David
+1Cr-18-1|Vitórias de David
+1Cr-18-14|Os oficiais de David
+1Cr-19-1|Guerra contra os amonitas
+1Cr-20-1|A conquista de Rabá
+1Cr-20-4|Guerra contra os filisteus
+1Cr-21-1|David conta os homens de guerra
+1Cr-22-1|Preparações para o templo
+1Cr-23-1|Os levitas
+1Cr-24-1|As divisões dos sacerdotes
+1Cr-24-20|Os restantes levitas
+1Cr-25-1|Os cantores
+1Cr-26-1|Os porteiros
+1Cr-26-20|Os tesoureiros e outros oficiais
+1Cr-27-1|As divisões do exército
+1Cr-27-16|Os oficiais das tribos
+1Cr-27-25|Os administradores do rei
+1Cr-28-1|Os planos para construção do templo
+1Cr-29-1|As ofertas para a construção do templo
+1Cr-29-10|David louva o Senhor
+1Cr-29-21|Salomão reconhecido como rei
+1Cr-29-26|A morte de David
+2Cr-1-1|Salomão pede sabedoria
+2Cr-2-1|Preparativos para a construção do templo
+2Cr-3-1|Salomão constrói o templo
+2Cr-4-1|O mobiliário do templo
+2Cr-5-2|A arca é levada para o templo
+2Cr-6-12|A oração de dedicação
+2Cr-7-1|A consagração do templo
+2Cr-7-11|O Senhor aparece a Salomão
+2Cr-8-1|Salomão exerce as suas funções
+2Cr-9-1|A visita da rainha de Sabá
+2Cr-9-13|A magnificência de Salomão
+2Cr-9-29|A morte de Salomão
+2Cr-10-1|Israel rebela-se contra Reboão
+2Cr-11-5|Reboão fortifica Judá
+2Cr-11-18|A família de Reboão
+2Cr-12-1|O rei do Egipto ataca Jerusalém
+2Cr-13-1|Abião é rei de Judá
+2Cr-14-1|Asa é rei de Judá
+2Cr-15-1|O despertamento de Asa
+2Cr-16-1|Os últimos anos de Asa
+2Cr-17-1|Jeosafá é rei de Judá
+2Cr-18-1|A profecia de Micaías contra Acabe
+2Cr-18-28|Acabe morre em combate
+2Cr-19-7|Jeosafá nomeia juízes
+2Cr-20-1|Jeosafá derrota Moabe e Amom
+2Cr-20-31|O fim do reino de Jeosafá
+2Cr-21-1|Jeorão é rei de Judá
+2Cr-22-1|Acazias é rei de Judá
+2Cr-22-10|Atalia e Joás
+2Cr-24-1|Joás repara o templo
+2Cr-24-17|A maldade de Joás
+2Cr-25-1|Amazias é rei de Judá
+2Cr-26-1|Uzias é rei de Judá
+2Cr-27-1|Jotão é rei de Judá
+2Cr-28-1|Acaz é rei de Judá
+2Cr-29-1|As reformas de Ezequias
+2Cr-30-1|Restabelecimento do culto e da Páscoa
+2Cr-31-2|Contribuições para o culto
+2Cr-32-1|Senaqueribe ameaça Jerusalém
+2Cr-32-23|O sucesso e a morte de Ezequias
+2Cr-33-1|Manassés é rei de Judá
+2Cr-33-24|Amom é rei de Judá
+2Cr-34-1|As reformas de Josias
+2Cr-34-14|É encontrado o rolo da lei
+2Cr-35-1|A celebração da Páscoa
+2Cr-35-20|A morte de Josias
+2Cr-36-1|Jeoacaz é rei de Judá
+2Cr-36-5|Joaquim é rei de Judá
+2Cr-36-9|Jeconias é rei de Judá
+2Cr-36-11|Zedequias é rei de Judá
+2Cr-36-15|A queda de Jerusalém
+Es-1-1|Ciro ajuda os exilados a voltarem
+Es-2-1|A lista dos retornados
+Es-3-1|A reconstrução do altar
+Es-3-7|Reparação dos alicerces do templo
+Es-4-1|Oposição à reconstrução
+Es-5-1|A carta de Tatenai a Dario
+Es-6-1|O decreto de Dario
+Es-6-13|A consagração do templo
+Es-6-19|Celebração da Páscoa
+Es-7-1|Esdras vem a Jerusalém
+Es-7-11|Carta de Artaxerxes a Esdras
+Es-8-1|Os chefes de família que voltaram com Esdras
+Es-8-15|O retorno a Jerusalém
+Es-9-1|A oração de Esdras devido aos casamentos mistos
+Es-10-1|A confissão do pecado
+Es-10-16|Lista dos prevaricadores
+Ne-1-1|A oração de Neemias
+Ne-2-1|Artaxerxes envia Neemias a Jerusalém
+Ne-2-11|Neemias inspecciona as muralhas de Jerusalém
+Ne-3-1|Os construtores das muralhas
+Ne-4-1|Oposição à reconstrução
+Ne-5-1|Neemias ajuda os pobres
+Ne-6-1|Mais contestação à reconstrução
+Ne-6-15|A muralha é acabada
+Ne-7-6|A lista dos retornados
+Ne-8-1|Esdras lê a lei
+Ne-9-1|Os israelitas confessam os seus pecados
+Ne-9-6|Oração dos levitas
+Ne-9-38|A promessa do povo
+Ne-11-1|Os novos habitantes de Jerusalém
+Ne-12-1|Lista de sacerdotes e levitas
+Ne-12-27|A consagração da muralha
+Ne-13-1|Reformas finais de Neemias
+Et-1-1|A rainha Vasti é deposta
+Et-2-1|Ester é coroada rainha
+Et-2-21|Mardoqueu revela uma conspiração
+Et-3-1|Hamã intenta destruir os judeus
+Et-4-1|Mardoqueu persuade a Ester a intervir
+Et-5-1|O pedido de Ester ao rei
+Et-6-1|Mardoqueu é honrado e Hamã humilhado
+Et-7-1|Hamã é enforcado
+Et-8-1|O édito do rei a favor dos judeus
+Et-9-1|Os judeus vingam-se dos seus inimigos
+Et-9-17|A celebração de Purim
+Et-10-1|O prestígio de Mardoqueu
+Joh-1-1|O carácter e a riqueza de Job
+Joh-1-6|Job é sujeito à primeira prova
+Joh-2-1|A segunda prova de Job
+Joh-2-11|Os três amigos de Job
+Joh-3-1|Job lamenta-se
+Joh-4-1|Elifaz
+Joh-6-1|Job
+Joh-8-1|Bildade
+Joh-9-1|Job
+Joh-11-1|Zofar
+Joh-12-1|Job
+Joh-15-1|Elifaz
+Joh-16-1|Job
+Joh-18-1|Bildade
+Joh-19-1|Job
+Joh-20-1|Zofar
+Joh-21-1|Job
+Joh-22-1|Elifaz
+Joh-23-1|Job
+Joh-25-1|Bildade
+Joh-26-1|Job
+Joh-32-1|Eliú
+Joh-38-1|O Senhor fala
+Joh-42-1|Job
+Joh-42-7|Deus repreende os amigos de Job
+Joh-42-10|Deus restaura a prosperidade de Job
+Pv-1-1|Propósito e tema
+Pv-1-7|Exortações para abraçar a sabedoria
+Pv-1-20|O perigo de rejeitar a sabedoria
+Pv-2-1|Benefícios morais da sabedoria
+Pv-3-1|Mais benefícios da sabedoria
+Pv-4-1|A excelência da sabedoria
+Pv-5-1|Aviso contra o adultério
+Pv-6-1|Aviso contra a loucura
+Pv-6-20|Aviso contra o adultério
+Pv-8-1|O apelo da sabedoria
+Pv-9-1|Convites da sabedoria e da loucura
+Pv-10-1|Provérbios de Salomão
+Pv-22-17|Conselhos dos sábios
+Pv-25-1|Mais provérbios de Salomão
+Pv-30-1|Provérbios de Agur
+Pv-31-1|Provérbios do rei Lemuel
+Pv-31-10|A esposa de carácter nobre
+Ec-1-1|Tudo é ilusão
+Ec-3-1|Tudo tem um tempo próprio
+Ec-4-1|Observando a vida
+Ec-5-1|Atitude para com Deus
+Ec-5-8|Riquezas são ilusão
+Ec-7-1|A sabedoria
+Ec-9-1|O destino de todos
+Ec-9-13|A sabedoria é melhor que a tolice
+Ec-11-1|A generosidade tem recompensa
+Ec-11-7|Lembra-te do teu Criador na tua mocidade
+Ec-12-9|A conclusão
+Is-1-1|Uma nação rebelde
+Is-2-1|O monte do Senhor
+Is-2-6|O dia do Senhor
+Is-3-1|Juízo sobre Judá e Jerusalém
+Is-4-2|O povo santo de Deus
+Is-5-1|A canção da vinha
+Is-5-8|Angústia e julgamentos
+Is-6-1|A chamada de Isaías
+Is-7-1|O sinal de Emanuel
+Is-8-1|Assíria -o instrumento do Senhor
+Is-8-11|Temer só a Deus
+Is-9-1|Um menino nos nasceu
+Is-9-8|A zanga do Senhor contra Israel
+Is-10-5|O julgamento de Deus sobre a Assíria
+Is-10-20|O remanescente de Israel
+Is-11-1|O ramo de Jessé
+Is-12-1|Canções de louvor
+Is-13-1|Profecia contra a Babilónia
+Is-14-1|Restauração de Israel
+Is-14-24|Profecia contra a Assíria
+Is-14-28|Profecia contra os filisteus
+Is-15-1|Profecia contra Moabe
+Is-17-1|Profecia contra Damasco
+Is-18-1|Profecia contra a Etiópia
+Is-19-1|Profecia sobre o Egipto
+Is-20-1|Profecia contra o Egipto e a Etiópia
+Is-21-1|Profecia contra a Babilónia
+Is-21-11|Profecia contra os edomitas
+Is-21-13|Profecia contra a Arábia
+Is-22-1|Profecia sobre Jerusalém
+Is-23-1|Profecia contra Tiro
+Is-24-1|A devastação da Terra
+Is-25-1|O louvor ao Senhor
+Is-26-1|Uma canção de louvor
+Is-27-1|A libertação de Israel
+Is-28-1|Juízo sobre Samaria
+Is-29-1|Castigo e libertação de Jerusalém
+Is-30-1|Profecia sobre a nação obstinada
+Is-31-1|O mal dos que procuram ajuda no Egipto
+Is-32-1|O reino de justiça
+Is-32-9|As mulheres de Jerusalém
+Is-33-1|A aflição e a ajuda
+Is-34-1|Indignação de Deus contra as nações
+Is-35-1|A alegria dos redimidos
+Is-36-1|Senaqueribe ameaça Jerusalém
+Is-37-1|A libertação de Jerusalém é predita
+Is-37-14|A oração de Ezequias
+Is-37-21|A queda de Senaqueribe
+Is-38-1|Ezequias adoece
+Is-39-1|Os delegados de Babilónia
+Is-40-1|O consolo para o povo de Deus
+Is-41-1|O ajudador de Israel
+Is-42-1|O Servo do Senhor
+Is-42-10|Um cântico de louvor ao Senhor
+Is-42-18|Israel é cego e surdo
+Is-43-1|O único Salvador de Israel
+Is-43-14|A misericórdia de Deus e a infidelidade de Israel
+Is-44-1|Israel, o escolhido
+Is-44-6|O Senhor, não os ídolos
+Is-44-24|Ciro, o instrumento de Deus
+Is-46-1|Os deuses da Babilónia
+Is-47-1|A queda da Babilónia
+Is-48-1|Israel é teimoso
+Is-48-12|Israel é liberto
+Is-49-1|O Servo do Senhor
+Is-49-8|A restauração de Israel
+Is-50-1|O pecado de Israel e a obediência do servo
+Is-51-1|A salvação eterna para Sião
+Is-51-17|A ira do Senhor
+Is-52-13|O sofrimento e a glória do Servo
+Is-54-1|A glória futuro de Sião
+Is-55-1|Convite à salvação de graça
+Is-56-1|Outros são chamados à salvação
+Is-56-9|A acusação contra os chefes do povo
+Is-57-15|Conforto para os humildes
+Is-58-1|O verdadeiro jejum
+Is-59-1|O pecado, a confissão e a redenção
+Is-60-1|A glória de Sião
+Is-61-1|O ano do favor do Senhor
+Is-62-1|O novo nome de Sião
+Is-63-1|O dia da vingança e da redenção
+Is-63-7|Louvor e oração
+Is-65-1|O juízo e a salvação
+Is-65-17|Novos céus e nova Terra
+Is-66-1|O juízo e a esperança
+Jr-1-4|A chamada de Jeremias
+Jr-2-1|Israel abandona Deus
+Jr-3-6|Israel é infiel
+Jr-4-5|Ameaça vinda do Norte
+Jr-5-1|Nenhum justo é encontrado
+Jr-6-1|O cerco de Jerusalém
+Jr-7-1|Religião falsa é inútil
+Jr-7-30|O vale da Matança
+Jr-8-4|Pecado e castigo
+Jr-10-1|Deus e ídolos
+Jr-10-17|A destruição aproxima-se
+Jr-10-23|A oração de Jeremias
+Jr-11-1|A aliança é quebrada
+Jr-11-18|Conspiração contra Jeremias
+Jr-12-1|A queixa de Jeremias
+Jr-12-5|A resposta de Deus
+Jr-13-1|Um cinto de linho
+Jr-13-12|O orgulho será abatido
+Jr-13-18|Ameaça do cativeiro
+Jr-14-1|A seca, a fome, a espada
+Jr-16-1|O dia do desastre
+Jr-17-19|Mantendo o sábado santo
+Jr-18-1|Jeremias na casa do oleiro
+Jr-20-1|Jeremias e Pasur
+Jr-20-7|Jeremias queixa-se
+Jr-21-1|Deus rejeita o pedido de Zedequias
+Jr-22-1|Juízo contra reis malvados
+Jr-23-1|O ramo justo
+Jr-23-9|Profetas mentirosos
+Jr-23-33|Profecias falsas e profetas falsos
+Jr-24-1|Os dois cestos de figos
+Jr-25-1|Setenta anos de exílio
+Jr-25-15|A taça da ira de Deus
+Jr-26-1|Jeremias ameaçado de morte
+Jr-27-1|Submissão a Nabucodonozor
+Jr-28-1|O falso profeta Hananias
+Jr-29-1|Uma carta aos exilados
+Jr-29-24|A mensagem para Semaías
+Jr-30-1|A restauração de Israel
+Jr-32-1|Jeremias compra um terreno
+Jr-33-1|A promessa de restauração
+Jr-34-1|Aviso a Zedequias
+Jr-34-8|Liberdade para escravos
+Jr-35-1|Os recabitas
+Jr-36-1|Joaquim queima o rolo de Jeremias
+Jr-37-1|Jeremias é preso
+Jr-38-1|Jeremias é posto numa cisterna
+Jr-38-14|Zedequias interroga Jeremias de novo
+Jr-39-1|A queda de Jerusalém
+Jr-40-1|Jeremias é libertado pelos babilónios
+Jr-40-7|Gedalias é assassinado
+Jr-41-16|Fuga para o Egipto
+Jr-44-1|Desastre por causa de idolatria
+Jr-45-1|Mensagem de apoio a Baruque
+Jr-46-2|Uma mensagem sobre o Egipto
+Jr-47-1|Uma mensagem sobre os filisteus
+Jr-48-1|Uma mensagem sobre Moabe
+Jr-49-1|Uma mensagem sobre Amom
+Jr-49-7|Uma mensagem sobre Edom
+Jr-49-23|Uma mensagem sobre Damasco
+Jr-49-28|Uma mensagem sobre Quedar e Hazor
+Jr-49-34|Uma mensagem sobre Elão
+Jr-50-1|Uma mensagem sobre Babilónia
+Jr-52-1|A queda de Jerusalém
+Jr-52-31|Jeconias é libertado
+Ez-1-1|As criaturas estranhas e a glória do Senhor
+Ez-2-1|A chamada de Ezequiel
+Ez-3-16|Aviso a Israel
+Ez-4-1|Evocação simbólica do cerco de Jerusalém
+Ez-6-1|Profecia simbólica contra as montanhas de Israel
+Ez-7-1|Chegou o fim
+Ez-8-1|Idolatria no templo
+Ez-9-1|A morte dos idólatras
+Ez-10-1|A glória afasta-se do templo
+Ez-11-1|Juízo sobre os responsáveis
+Ez-11-14|A promessa do retorno de Israel
+Ez-12-1|O exílio simbolizado
+Ez-13-1|A condenação dos profetas falsos
+Ez-14-1|A condenação dos idólatras
+Ez-14-12|Julgamento inevitável
+Ez-15-1|Jerusalém, uma videira selvagem
+Ez-16-1|Alegoria da infidelidade de Jerusalém
+Ez-17-1|A parábola das duas águias e da videira
+Ez-18-1|A alma que peca morrerá
+Ez-19-1|Lamentação pelos chefes de Israel
+Ez-20-1|Israel é rebelde
+Ez-20-30|Juízo e restauração
+Ez-20-45|Profecia contra o sul
+Ez-21-1|Babilónia, a espada do Senhor
+Ez-22-1|Jerusalém, cidade de abominações
+Ez-23-1|As duas irmãs de má conduta
+Ez-24-1|A parábola da panela
+Ez-24-15|A morte da mulher de Ezequiel
+Ez-25-1|Profecia contra Amom
+Ez-25-8|Profecia contra Moabe
+Ez-25-12|Profecia contra Edom
+Ez-25-15|Profecia contra os filisteus
+Ez-26-1|Profecia contra Tiro
+Ez-27-1|Lamentação sobre Tiro
+Ez-28-1|Profecia contra o rei de Tiro
+Ez-28-20|Profecia contra Sidom
+Ez-29-1|Profecia contra o Egipto
+Ez-30-1|Lamentação sobre o Egipto
+Ez-31-1|O cedro do Líbano
+Ez-32-1|Lamentação sobre Faraó
+Ez-33-1|Ezequiel, o vigia
+Ez-33-21|A queda de Jerusalém explicada
+Ez-34-1|Pastores e ovelhas
+Ez-35-1|Profecia contra Edom
+Ez-36-1|Profecia às montanhas de Israel
+Ez-37-1|O vale de ossos secos
+Ez-37-15|Uma nação sob um rei
+Ez-38-1|Profecia contra Gogue
+Ez-40-1|Visão do futuro templo
+Ez-40-5|A porta oriental para o átrio exterior
+Ez-40-17|O átrio exterior
+Ez-40-20|A porta do norte
+Ez-40-24|O portão do sul
+Ez-40-28|As portas para o átrio interior
+Ez-40-38|O espaço para preparação dos sacrifícios
+Ez-40-44|Câmaras para os sacerdotes
+Ez-40-48|O templo
+Ez-42-1|Câmaras para os sacerdotes comerem
+Ez-43-5|A glória do Senhor volta ao templo
+Ez-43-13|O altar
+Ez-44-1|O príncipe, os levitas, os sacerdotes
+Ez-45-1|A divisão da terra
+Ez-45-13|Ofertas e dias santos
+Ez-47-1|O rio que corre do templo
+Ez-47-13|As fronteiras da terra
+Ez-48-1|A divisão da terra
+Ez-48-30|As portas da cidade
+Dn-1-1|A preparação de Daniel na Babilónia
+Dn-2-1|O sonho de Nabucodonozor
+Dn-2-24|Daniel interpreta o sonho
+Dn-3-1|A estátua de ouro
+Dn-3-19|Os três homens lançados na fornalha
+Dn-4-1|Nabucodonozor sonha com uma árvore
+Dn-4-19|Daniel interpreta o sonho
+Dn-4-28|O sonho é realizado
+Dn-6-1|Daniel na cova dos leões
+Dn-7-1|O sonho dos quatro animais
+Dn-7-17|A interpretação do sonho
+Dn-8-1|A visão de Daniel do carneiro e do bode
+Dn-8-15|Gabriel interpreta a visão
+Dn-9-1|A oração de Daniel
+Dn-9-20|As setenta semanas
+Dn-12-1|Os tempos do fim
+Os-1-2|A esposa e os filhos de Oséias
+Os-2-1|Israel é castigado e restaurado
+Os-3-1|A reconciliação de Oséias com a sua mulher
+Os-4-1|A acusação contra Israel
+Os-5-1|Juízo contra Israel
+Os-6-1|Israel é impenitente
+Os-8-1|Israel a colher tempestades
+Os-9-1|Castigo para Israel
+Os-11-1|O amor de Deus para com Israel
+Os-12-1|O pecado de Israel
+Os-13-1|A ira de Deus contra Israel
+Os-14-1|O arrependimento trará bênção
+Jl-1-1|A invasão de gafanhotos
+Jl-2-1|Um exército de gafanhotos
+Jl-2-12|Convertam-se ao Senhor!
+Jl-2-18|A resposta do Senhor
+Jl-2-28|O dia do Senhor
+Jl-3-1|As nações serão julgadas
+Jl-3-9|Bênçãos para o povo de Deus
+Am-1-2|Julgamento sobre os vizinhos de Israel
+Am-2-6|Julgamento sobre Israel
+Am-3-1|Testemunhas convocadas contra Israel
+Am-4-1|Israel não voltou para Deus
+Am-5-1|Lamentação sobre Israel
+Am-5-4|Busquem o Senhor e vivam
+Am-5-18|O dia do Senhor
+Am-6-1|Ai dos despreocupados
+Am-6-8|O Senhor detesta o orgulho de Israel
+Am-7-1|Gafanhotos, fogo e um fio de prumo
+Am-7-10|Amós e Amazias
+Am-8-1|Um cesto de fruta madura
+Am-9-1|Israel será destruído
+Am-9-11|A restauração de Israel
+Ob-1-1|A visão de Obadias
+Jn-1-1|Jonas foge do Senhor
+Jn-2-1|A oração de Jonas
+Jn-3-1|Jonas vai a Nínive
+Jn-4-1|Jonas irrita-se com a compaixão do Senhor
+Mq-1-2|Julgamento contra Samaria e Judá
+Mq-1-8|O lamento de Miqueias
+Mq-2-1|Os planos de Deus e do homem
+Mq-2-6|Profetas falsos
+Mq-2-12|A libertação é prometida
+Mq-3-1|Chefes e profetas censurados
+Mq-4-6|O plano do Senhor
+Mq-5-1|A promessa de um governador
+Mq-5-5|Libertação e destruição
+Mq-6-1|A causa do Senhor contra Israel
+Mq-7-1|A miséria de Israel
+Mq-7-8|Israel será restaurado
+Mq-7-14|Oração e louvor
+Na-1-1|O furor do Senhor contra Nínive
+Na-2-1|O fim de Nínive
+Na-3-1|Ai de Nínive
+Hc-1-1|A queixa de Habacuque
+Hc-1-5|A resposta do Senhor
+Hc-2-2|A resposta do Senhor
+Hc-3-1|A oração de Habacuque
+Sf-1-1|Aviso de destruição
+Sf-1-4|Ameaça contra Judá
+Sf-1-14|O dia do juízo do Senhor
+Sf-2-4|Ameaça contra Filisteia
+Sf-2-8|Ameaça contra Moabe e Amom
+Sf-2-12|Ameaça contra Etiópia e Assíria
+Sf-3-1|O futuro de Jerusalém
+Ag-1-1|Chamada para construir o templo
+Ag-2-1|A glória do novo templo
+Ag-2-10|Bênçãos para um povo contaminado
+Ag-2-20|Zorobabel, o escolhido de Deus
+Zc-1-1|Uma chamada ao arrependimento
+Zc-1-18|Quatro chifres e quatro ferreiros
+Zc-2-1|Jerusalém é medida
+Zc-3-1|Roupa limpa para o sumo sacerdote
+Zc-4-1|O castiçal de ouro e as duas oliveiras
+Zc-5-1|O rolo que voava
+Zc-5-5|A vasilha que voava
+Zc-6-1|Quatro carros
+Zc-6-9|Uma coroa para Josué
+Zc-7-1|Justiça e misericórdia, não jejum
+Zc-8-1|O Senhor promete abençoar Jerusalém
+Zc-9-1|Juízo sobre os inimigos de Israel
+Zc-9-14|O Senhor aparecerá
+Zc-10-1|O Senhor cuidará de Judá
+Zc-11-4|Dois pastores
+Zc-12-1|Os inimigos de Jerusalém serão destruídos
+Zc-14-1|O Senhor chega e reina
+Ml-1-1|O amor de Deus pelo seu povo
+Ml-1-6|Sacrifícios imundos
+Ml-2-1|Aviso aos sacerdotes
+Ml-2-10|Judá é infiel
+Ml-2-17|O dia do juízo
+Ml-3-6|Roubando Deus
+Ml-4-1|O dia do Senhor

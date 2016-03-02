@@ -2,21 +2,10 @@ class OrdersController < ApplicationController
 
 	before_action :find_order, only: [:show, :destroy]
 
-
-require 'csv'
-	
 	def index
 		@orders = Order.all
 	end
 
-	def new
-		@order = Order.new
-	end
-
-	def create
-		@order = Order.create(post_params)
-	end
-	
 	def show
 		@order_items = OrderItem.where(order_id: @order.id)
 	end
@@ -28,7 +17,7 @@ require 'csv'
 
 	def import
     	begin
-    		@order = Order.create
+    		@order = Order.new(user_id: current_user.id)
     		@order.import(params[:file])
     		
     		flash[:success] = "File successuly imported!"
@@ -36,7 +25,7 @@ require 'csv'
     	rescue
     		flash[:error] = "Error: The #{@file} cannot be imported."
     		@order.destroy
-    	  	redirect_to root_url
+    		redirect_to root_url
    		end
 	end
 

@@ -1,12 +1,17 @@
 Rails.application.routes.draw do
 
+  devise_for :users
+
   resources :orders do
     collection { post :import }
   end
-  # The priority is based upon order of creation: first created -> highest priority.
-  # See how all your routes lay out with "rake routes".
+  
+  authenticated :user do
+	  root "orders#index", as: "authenticated_root"
+	end
 
-  # You can have the root of your site routed with "root"
-  root 'orders#index'
+  devise_scope :user do
+    root to: "devise/sessions#new"
+  end
 
 end

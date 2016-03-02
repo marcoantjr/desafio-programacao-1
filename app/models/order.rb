@@ -1,6 +1,11 @@
 class Order < ActiveRecord::Base
-  has_many :order_item
+
+	belongs_to :user
+  has_many :order_item, dependent: :destroy
+
   before_create :set_price
+
+require 'csv'
   
   def import(file)
     filepath = "#{Rails.root}/example_input.tab"

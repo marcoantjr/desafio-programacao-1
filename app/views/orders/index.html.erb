@@ -5,12 +5,13 @@
     <% flash.each do |key, value| %>
         <div class="alert alert-<%= key %>"><%= value %></div>
         <br>
-      <% end %>
-    
+    <% end %>
+
 </div>
 
 
 <div>
+    
 <%= render 'upload' %>
 
 <table>
@@ -37,7 +38,7 @@
  					<%=time_ago_in_words(order.created_at)%>
  				</td>
  				<td>
- 				    <%= link_to 'Destroy', @order, method: :destroy, data: { confirm: 'Are you sure?' } %>
+ 				    <%= link_to 'Delete', order, method: :delete, data: { confirm: 'Are you sure?' } %>
  				</td>
  		    </tr>
          <% end %>
