@@ -1,0 +1,52 @@
+<h1>Order: <%=@order.id %></h1>
+<h3>Owner: <%=@order.user_id %></h3>
+<h3>File: <%=@order.filename %></h3>
+<h3>Total Price: <%=@order.price %></h>
+
+<br>
+<br>
+
+<table border=1>
+    <thead>
+        <tr>
+            <th>Order Id</th>
+            <th>Purchaser Name</th>
+            <th>Item Description</th>
+            <th>Item Price</th>
+            <th>Purchase Count</th>
+            <th>Merchant Address</th>
+            <th>Merchant Name</th>
+            <th>Price</th>
+    </tr>
+    </thead>
+    <tbody>
+        <% @order_items.each do |order_item| %>
+ 			<tr>
+ 				<td>
+ 					<%=order_item.id%>
+ 				</td>
+ 				<td>
+ 				    <%=order_item.purchaser.name %>
+ 				</td>
+ 				<td>
+ 				    <%=order_item.item.description %>
+ 				</td>
+ 				<td>
+ 				    <%=order_item.item.price %>
+ 				</td>
+ 				<td>
+ 				    <%=order_item.quantity %>
+ 				</td>
+ 				<td>
+ 				    <%=order_item.merchant.name %>
+ 				</td>
+ 				<td>
+ 					<%=order_item.merchant.address%>
+ 				</td>
+ 				<td>
+ 					<%=order_item.price%>
+ 				</td>
+ 		    </tr>
+         <% end %>
+     </tbody>
+ </table>

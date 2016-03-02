@@ -1,5 +1,8 @@
 class OrdersController < ApplicationController
 
+	before_action :find_order, only: [:show, :destroy]
+
+
 require 'csv'
 	
 	def index
@@ -13,46 +16,27 @@ require 'csv'
 	def create
 		@order = Order.create(post_params)
 	end
+	
+	def show
+		@order_items = OrderItem.where(order_id: @order.id)
+	end
 
 	def destroy
-		@order = Order.find(params[:id])
 		@order.destroy
 		redirect_to root_path
 	end
 
 	def import
     	begin
-    		@file = params[:file]
-			@order = Order.create
-			@fullprice = 0.0
-
-			CSV.foreach(@file.path, { :headers => true, :col_sep => "\t", :skip_blanks => true }) do |item|
-		
-				if (!item.empty?) 
-					@purchaser_name	= item[0]
-					@item_description = item[1]
-					@item_price = BigDecimal.new(item[2])
-					@purchase_count = item[3].to_i
-					@merchant_address = item[4]
-					@merchant_name = item[5]
-
-      				@purchaser = Purchaser.find_or_create_by(name: @purchaser_name)
-      				@item = Item.find_or_create_by(description: @item_description, price: @item_price)
-      				@merchant = Merchant.find_or_create_by(name: @merchant_name, address: @merchant_address)
-
-      				@price = @item_price * @purchase_count
-
-      				@order_item = OrderItem.create(order_id:@order.id, purchaser_id:@purchaser.id, item_id:@item.id, merchant_id:@merchant.id, price:@price, quantity:@purchase_count)
-
-      				@fullprice += @price
-      				
-
-				end
-    	    end
-    	    @order.update(price:@fullprice)
-	    	redirect_to root_url, notice: "Products imported."
+    		@order = Order.create
+    		@order.import(params[:file])
+    		
+    		flash[:success] = "File successuly imported!"
+	    	redirect_to root_url
     	rescue
-    	  redirect_to root_url, notice: "Invalid CSV file format."
+    		flash[:error] = "Error: The #{@file} cannot be imported."
+    		@order.destroy
+    	  	redirect_to root_url
    		end
 	end
 
@@ -63,7 +47,7 @@ require 'csv'
 		end
 
 		def post_params
-			params.require(:order).permit(:price, :user_id)
+			params.require(:order).permit(:price, :filename, :user_id)
 		end
 
 		def init

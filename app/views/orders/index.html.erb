@@ -1,38 +1,45 @@
-<h1> Testing  2</h1>
+<h1>Desafio - Rails</h1>
 
 <div>
-<h3>Import File</h3>
-  <%= form_tag import_orders_path, multipart: true do %>
-    <%= file_field_tag :file %>
-    <%= submit_tag "Import" %>
-  <% end %>
+    
+    <% flash.each do |key, value| %>
+        <div class="alert alert-<%= key %>"><%= value %></div>
+        <br>
+      <% end %>
+    
 </div>
-<br>
+
+
+<div>
+<%= render 'upload' %>
 
 <table>
-         <thead>
-             <tr>
-                <th>Order Id</th>
-                 <th>User Id</th>
-                 <th>Total</th>
-                 <th>Created At</th>
-             </tr>
-         <tbody>
-             <% @orders.each do |order| %>
- 				<tr>
- 					<td>
- 						<%=order.id%>
- 					</td>
- 					<td>
-
- 					</td>
- 					<td>
- 						<%=order.price%>
- 					</td>
- 					<td>
- 						<%=time_ago_in_words(order.created_at)%>
- 					</td>
- 				</tr>
-             <% end %>
-         </tbody>
-     </table>
+    <thead>
+        <tr>
+            <th>Order Id</th>
+            <th>Filename</th>
+            <th>Total</th>
+        <th>Created At</th>
+    </tr>
+    <tbody>
+        <% @orders.each do |order| %>
+ 			<tr>
+ 				<td>
+ 					<%=link_to order.id, order%>
+ 				</td>
+ 				<td>
+                    <%=order.filename%>
+ 				</td>
+ 				<td>
+ 					<%=order.price%>
+ 				</td>
+ 				<td>
+ 					<%=time_ago_in_words(order.created_at)%>
+ 				</td>
+ 				<td>
+ 				    <%= link_to 'Destroy', @order, method: :destroy, data: { confirm: 'Are you sure?' } %>
+ 				</td>
+ 		    </tr>
+         <% end %>
+     </tbody>
+ </table>
