@@ -22,5 +22,9 @@
     <%= f.submit "Log in" %>
   </div>
 <% end %>
+<div>
+<%= link_to "Sign in with Google", user_omniauth_authorize_path(:google_oauth2) %>
+</div>
+
 
 <%= render "devise/shared/links" %>

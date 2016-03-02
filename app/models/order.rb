@@ -5,7 +5,7 @@ class Order < ActiveRecord::Base
 
   before_create :set_price
 
-require 'csv'
+  require 'csv'
   
   def import(file)
     fullprice = 0.0
