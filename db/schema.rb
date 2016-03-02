@@ -15,9 +15,9 @@ ActiveRecord::Schema.define(version: 20160302003518) do
 
   create_table "items", force: :cascade do |t|
     t.string   "description"
-    t.decimal  "price",       precision: 5, scale: 2
-    t.datetime "created_at",                          null: false
-    t.datetime "updated_at",                          null: false
+    t.decimal  "price",       precision: 10, scale: 2
+    t.datetime "created_at",                           null: false
+    t.datetime "updated_at",                           null: false
   end
 
   create_table "merchants", force: :cascade do |t|
@@ -28,26 +28,25 @@ ActiveRecord::Schema.define(version: 20160302003518) do
   end
 
   create_table "order_items", force: :cascade do |t|
-    t.integer  "order_id"
     t.integer  "purchaser_id"
-    t.integer  "product_id"
+    t.integer  "item_id"
     t.integer  "merchant_id"
+    t.integer  "order_id"
     t.integer  "quantity"
-    t.decimal  "price",        precision: 5, scale: 2
-    t.datetime "created_at",                           null: false
-    t.datetime "updated_at",                           null: false
+    t.decimal  "price",        precision: 10, scale: 2
+    t.datetime "created_at",                            null: false
+    t.datetime "updated_at",                            null: false
   end
 
+  add_index "order_items", ["item_id"], name: "index_order_items_on_item_id"
   add_index "order_items", ["merchant_id"], name: "index_order_items_on_merchant_id"
-  add_index "order_items", ["order_id"], name: "index_order_items_on_order_id"
-  add_index "order_items", ["product_id"], name: "index_order_items_on_product_id"
   add_index "order_items", ["purchaser_id"], name: "index_order_items_on_purchaser_id"
 
   create_table "orders", force: :cascade do |t|
-    t.decimal  "price",      precision: 5, scale: 2
+    t.decimal  "price",      precision: 10, scale: 2
     t.integer  "user_id"
-    t.datetime "created_at",                         null: false
-    t.datetime "updated_at",                         null: false
+    t.datetime "created_at",                          null: false
+    t.datetime "updated_at",                          null: false
   end
 
   create_table "purchasers", force: :cascade do |t|
