@@ -1,6 +1,6 @@
 class OrdersController < ApplicationController
 
-	before_filter :authenticate_user!
+	before_action :authenticate_user!
 
 	before_action :find_order, only: [:show, :destroy]
 
@@ -22,25 +22,25 @@ class OrdersController < ApplicationController
     		@order = Order.new(user_id: current_user.id)
     		@order.import(params[:file])
     		flash[:success] = "File successuly imported!"
-	    	redirect_to root_url
+	    	redirect_to root_path
     	rescue
     		flash[:error] = "Error: The #{@file.original_filename} cannot be imported."
     		@order.destroy
-    		redirect_to root_url
+    		redirect_to root_path
    		end
 	end
 
 
 	private
 		def find_order
-			@order = Order.find(params[:id])
+			begin
+				@order = Order.find(params[:id])
+			rescue
+				redirect_to root_path
+			end
 		end
 
 		def post_params
 			params.require(:order).permit(:price, :filename, :user_id)
-		end
-
-		def init
-			self.price = 0.0
 		end
 end

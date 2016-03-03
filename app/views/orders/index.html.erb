@@ -27,7 +27,7 @@
  				</td>
                 
  				<td>
- 					<%=order.price%>
+ 					<%=number_to_currency(order.price, delimiter:"", separator:",")%>
  				</td>
  				<td>
  					<%=time_ago_in_words(order.created_at)%>

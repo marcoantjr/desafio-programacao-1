@@ -1,7 +1,7 @@
 <h1>Order: <%=@order.id %></h1>
-<h3>Owner: <%=@order.user.email %></h3>
+<h3>Owner: <%=@order.user.name %></h3>
 <h3>File: <%=@order.filename %></h3>
-<h3>Total Price: <%=@order.price %></h>
+<h3>Total Price: <%= number_to_currency(@order.price, delimiter:"", separator:",") %></h>
 
 <br>
 <br>
@@ -16,7 +16,7 @@
             <th>Purchase Count</th>
             <th>Merchant Address</th>
             <th>Merchant Name</th>
-            <th>Price</th>
+            <th>Purchase Price</th>
     </tr>
     </thead>
     <tbody>
@@ -32,7 +32,7 @@
  				    <%=order_item.item.description %>
  				</td>
  				<td>
- 				    <%=order_item.item.price %>
+                    <%=number_to_currency(order_item.item.price, delimiter:"", separator:",")%>
  				</td>
  				<td>
  				    <%=order_item.quantity %>
@@ -44,7 +44,7 @@
  					<%=order_item.merchant.address%>
  				</td>
  				<td>
- 					<%=order_item.price%>
+                    <%=number_to_currency(order_item.price, delimiter:"", separator:",")%>
  				</td>
  		    </tr>
          <% end %>
