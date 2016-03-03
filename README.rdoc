@@ -1,49 +1,45 @@
 = README
 "Desafio Programacao 1" developed by Marco Antonio Cunha
 
-> Ruby  version: 2.2.3
-> Rails version: 4.2.4
+* Ruby  version: 2.2.3
+* Rails version: 4.2.4
 
-* System dependencies
-
-Ruby and Rails on version listed here or higher
-You must have SQLite engine installed in order to run this application. Visit "http://www.sqlite.org" for install, if necessary.
-
+= System dependencies
+* Ruby and Rails on version listed here or higher
+* You must have SQLite engine installed in order to run this application. Visit "http://www.sqlite.org" for install, if necessary.
 * Before all steps below, be sure that you have the previous dependecies and you are at application directory. *
 
-* Configuration
-
+= Configuration
 After cloning Github repository (https://github.com/marcoantjr/desafio-programacao-1.git) or download the source code, you must run the following command:
 
-bundle install  
+	bundle install  
 
 
-* Database Creation and Reset
+= Database Creation and Reset
 After the configuration step, you have to create the database schema and models with the following command:
 
-rake db:migrate
+	rake db:migrate
 
 
 If you want to recreate the database, run:
 
-rake db:reset db:migrate
+	rake db:reset db:migrate
 
 
-* How to run the test suite
+= How To Run Tests
 To perform test, you must run the Configuration step and create the test environment. You can do it with the command:
 
-rake db:migrate RAILS_ENV=test
+	rake db:migrate RAILS_ENV=test
 
 Afte this, you run the rails test command as below:
 
-rake test
+	rake test
 
 
-* Deployment instructions
+= Deployment Instructions
 To deploy the application on your localhost run the following command after all steps above:
 
-rails s
-
+	rails s
 
 == Usage
 
