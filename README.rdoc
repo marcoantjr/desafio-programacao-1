@@ -1,28 +1,64 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
+* Ruby  version: 2.2.3
+* Rails version: 4.2.4
 
 * System dependencies
+Ruby and Rails on version listed here or higher
+You must have SQLite engine installed in order to run this application. Visit "http://www.sqlite.org" for install, if necessary.
+
+== Before all steps below, be sure that you have the previous dependecies and you are at application directory.
 
 * Configuration
+After cloning Github repository (https://github.com/marcoantjr/desafio-programacao-1.git) or download the source code, you must run the following command:
+```bundle install
 
-* Database creation
+* Database Creation and Reset
+After the configuration step, you have to create the database schema and models with the following command:
+```rake db:migrate
 
-* Database initialization
+If you want to recreate the database, run:
+```rake db:reset db:migrate
 
 * How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
+To perform test, you must run the Configuration step and create the test environment. You can do it with the command:
+```rake db:migrate RAILS_ENV=test
+Afte this, you run the rails test command as below:
+```rake test
 
 * Deployment instructions
+To deploy the application on your localhost run the following command after all steps above:
+```rails s
 
-* ...
+== Usage
+If you did all the configuration and creation steps correctly, when you deploy the application, it should be running at: http://localhost:3000
+
+* Login and Registration
+The first page of the application is a login form. In this page, you must fill fields "email" and "password" and click at "Login" button, or you can log in the application using Google account.
+
+If you don't have an account and do not want to use a Google account, you can sign up using the "Sign up" link. You will be redirect to the registration page where you can create your own user.
+
+After you logged in, you can edit your account clicking at "Account" in top menu. And you can log out performing a click at "Sign out", it will kill your session and redirect to the login page. 
+
+* Import File
+After login, you will be redirected to the main page of the application. In this page, you may import an order file or view the list of imported ones.
+To import, just select a file and click at "Send" button. If the file is good and has been successfuly imported, a success message will be shown and the new order will appear in the table. If any error appear, the file will not be imported.
+
+* View and Delete Order
+If there is at least one Order listed in table, you can "View" it's details by clicking at "View" link in the row. You will be redirected to Order page which shows the Order Items inserted.
+
+And if you already have imported a file, you can "Delete" it clicking at "Delete" link in the Order row. It's important to say that you can only delete your own Order and it is irreversible.
+
+== Security
+
+You must be logged to see and import a file. If you try to direct access any inner page, you will be redirected to Login page.
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+
+
+
+
+
+The main objective of this app is to import a file and normalize it in a relational database
+
