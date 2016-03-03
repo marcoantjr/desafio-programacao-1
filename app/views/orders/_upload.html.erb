@@ -1,8 +1,8 @@
-<div style="display:inline;">
+<div>
 <%= form_tag import_orders_path, multipart: true do %>
     <h3>Import a file:</h3>
-    <%= file_field_tag :file, class: "inline"%>
-    <%= submit_tag "Send", class: "actions" %>
+    <%= file_field_tag :file, class: "inline btn"%>
+    <%= submit_tag "Send", class: "btn btn-info send-button" %>
   <% end %>
 </div>
 <br>

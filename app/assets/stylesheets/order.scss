@@ -47,10 +47,21 @@ thead th {
     float: none;
 }
 .inline {
-float: left; margin: 5px; width: 250px; 
+  float: left; width: 350px;
+  vertical-align: middle;
 }
 
-.google {
-float: center;
+.send-button{
+  padding-top: 10px; padding-bottom: 10px;
+}
 
+.google_image {
+    display:block;
+    cursor: pointer;
+    width: 250px;
+}
+
+.little-font{
+  font-size: 10px;
+  vertical-align: middle;
 }
