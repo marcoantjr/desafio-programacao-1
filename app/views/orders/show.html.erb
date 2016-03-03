@@ -6,6 +6,7 @@
             <th>Owner</th>
             <th>File</th>
             <th>Order Price</th>
+            <th>Created At</th>
         </tr>
     </thead>
     <tbody>
@@ -14,10 +15,17 @@
             <td> <%=@order.user.name %> </td>
             <td> <%=@order.filename %> </td>
             <td> <%= number_to_currency(@order.price, delimiter:"", separator:",") %> </td>
+            <td> <%=time_ago_in_words(@order.created_at)%> </td>
         </tr>
         
     </tbody>
 </table>
+<br>
+<% if @order_items.blank? %>
+<div>
+    <h4>There are no Order Items for this Order!</h4>
+</div>
+<% else %>
 <br>
 <div>
 <table style="width: 100%">
@@ -65,6 +73,7 @@
      </tbody>
  </table>
 </div>
- <br>
+<% end %>
+<br>
 
  <%= link_to "Back", root_path %>

@@ -7,6 +7,17 @@ class Order < ActiveRecord::Base
 
   require 'csv'
   
+
+  # Imports method work following steps below:
+  # 1) Receives a file from controller;
+  # 2) Reads it line by line (First line is considered header; The file is tab separeted; And ignore white lines)
+  # 2.1) For each line, columns become variables to create objects;
+  # 2.2) Creates all the objects for OrderItem relationship;
+  # 2.3) Calculates the OrderItem price by multiplying the quantity with item price;
+  # 2.4) Creates the OrderItem with correct relations;
+  # 2.5) Sums price with full price;
+  # 3) Updates Order object;
+  
   def import(file)
     fullprice = 0.0
 
@@ -24,7 +35,7 @@ class Order < ActiveRecord::Base
       		merchant = Merchant.find_or_create_by(name: merchant_name, address: merchant_address)
   				price = item_price * purchase_count
 
-  				order_item = OrderItem.create(order: self, purchaser: purchaser, item: item, merchant: merchant, price:price, quantity:purchase_count)
+  				order_item = OrderItem.create(order: self, purchaser: purchaser, item: item, merchant: merchant, price: price, quantity: purchase_count)
 
   				fullprice += price
     	end

@@ -4,13 +4,14 @@ class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   before_filter :configure_permitted_parameters, if: :devise_controller?
 
+# Render 404 if routed
 def not_found
 	render :file => 'public/404.html', :status => :not_found, :layout => false
 end
 
 
 protected
-
+  #Strong params for Users name attib -> Devise model
   def configure_permitted_parameters
     devise_parameter_sanitizer.for(:sign_up) << :name
     devise_parameter_sanitizer.for(:account_update) << :name
