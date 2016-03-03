@@ -33,6 +33,9 @@ gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'omniauth-oauth2', '~> 1.3.1'
 gem 'omniauth-google-oauth2'
 
+# Bootstrap SASS
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+
 
 
 group :development, :test do

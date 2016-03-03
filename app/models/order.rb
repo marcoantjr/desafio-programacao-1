@@ -11,6 +11,7 @@ class Order < ActiveRecord::Base
     fullprice = 0.0
 
 			CSV.foreach(file.path, { :headers => true, :col_sep => "\t", :skip_blanks => true }) do |item|
+
 		    	purchaser_name	= item[0]
 					item_description = item[1]
 					item_price = BigDecimal.new(item[2])
@@ -29,7 +30,6 @@ class Order < ActiveRecord::Base
     	end
     self.update(filename: file.original_filename, price: fullprice)
   end
-
 
   private
   def set_price

@@ -5,7 +5,7 @@ class ApplicationController < ActionController::Base
   before_filter :configure_permitted_parameters, if: :devise_controller?
 
 def not_found
-	redirect_to root_path
+	render :file => 'public/404.html', :status => :not_found, :layout => false
 end
 
 

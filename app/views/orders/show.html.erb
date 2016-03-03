@@ -1,12 +1,26 @@
-<h1>Order: <%=@order.id %></h1>
-<h3>Owner: <%=@order.user.name %></h3>
-<h3>File: <%=@order.filename %></h3>
-<h3>Total Price: <%= number_to_currency(@order.price, delimiter:"", separator:",") %></h>
 
+<table style="width: 100%">
+    <thead>
+        <tr>
+            <th>Order</th>
+            <th>Owner</th>
+            <th>File</th>
+            <th>Order Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class = "center_cell bold">
+            <td> <%=@order.id %> </td>
+            <td> <%=@order.user.name %> </td>
+            <td> <%=@order.filename %> </td>
+            <td> <%= number_to_currency(@order.price, delimiter:"", separator:",") %> </td>
+        </tr>
+        
+    </tbody>
+</table>
 <br>
-<br>
-
-<table border=1>
+<div>
+<table style="width: 100%">
     <thead>
         <tr>
             <th>Order Id</th>
@@ -21,8 +35,8 @@
     </thead>
     <tbody>
         <% @order_items.each do |order_item| %>
- 			<tr>
- 				<td>
+ 			<tr class="<%= cycle('list_line_odd', 'list_line_even') %>">
+ 				<td class="center_cell">
  					<%=order_item.id%>
  				</td>
  				<td>
@@ -31,10 +45,10 @@
  				<td>
  				    <%=order_item.item.description %>
  				</td>
- 				<td>
+ 				<td class="center_cell">
                     <%=number_to_currency(order_item.item.price, delimiter:"", separator:",")%>
  				</td>
- 				<td>
+ 				<td class="center_cell">
  				    <%=order_item.quantity %>
  				</td>
  				<td>
@@ -43,14 +57,14 @@
  				<td>
  					<%=order_item.merchant.address%>
  				</td>
- 				<td>
+ 				<td class="center_cell">
                     <%=number_to_currency(order_item.price, delimiter:"", separator:",")%>
  				</td>
  		    </tr>
          <% end %>
      </tbody>
  </table>
-
+</div>
  <br>
 
  <%= link_to "Back", root_path %>

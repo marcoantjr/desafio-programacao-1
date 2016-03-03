@@ -1,10 +1,8 @@
-<h1>Desafio - Rails</h1>
+
+<%= render 'upload' %>
 
 <div>
-<%= render 'upload' %>
-</div>
-
-<table border = 1>
+<table style="width: 100%">
     <thead>
         <tr>
             <th>Order Id</th>
@@ -12,31 +10,33 @@
             <th>Filename</th>
             <th>Total</th>
             <th>Created</th>
+            <th/>
+            <th/>
         </tr>
     <tbody>
         <% @orders.each do |order| %>
- 			<tr>
- 				<td>
+ 			<tr class="<%= cycle('list_line_odd', 'list_line_even') %>">
+ 				<td class="center_cell">
  					<%= order.id %>
  				</td>
  				<td>
-                    <%=order.user.email%>
+                    <%=order.user.name%>
                 </td>
                 <td>
                     <%=order.filename%>
  				</td>
                 
- 				<td>
+ 				<td class="center_cell">
  					<%=number_to_currency(order.price, delimiter:"", separator:",")%>
  				</td>
  				<td>
  					<%=time_ago_in_words(order.created_at)%>
  				</td>
-                <td>
+                <td class="center_cell">
                     <%= link_to 'View', order %>
                 </td>
  				<% if current_user == order.user %>
-                    <td>
+                    <td class="center_cell">
  				       <%= link_to 'Delete', order, method: :delete, data: { confirm: 'Are you sure?' } %>
  				   </td>
                 <% end %>
@@ -44,3 +44,4 @@
         <% end %>
     </tbody>
 </table>
+</div>

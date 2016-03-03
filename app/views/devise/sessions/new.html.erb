@@ -1,5 +1,7 @@
-<h2>Log in</h2>
-
+<div align="center">
+<h2>Login</h2>
+<br />
+<br />
 <%= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
   <div class="field">
     <%= f.label :email %><br />
@@ -19,12 +21,11 @@
   <% end -%>
 
   <div class="actions">
-    <%= f.submit "Log in" %>
+    <%= f.submit "Login" %>
   </div>
 <% end %>
-<div>
-<%= link_to "Sign in with Google", user_omniauth_authorize_path(:google_oauth2) %>
-</div>
-
 
 <%= render "devise/shared/links" %>
+
+<%= render "devise/shared/google" %>
+</div>

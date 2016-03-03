@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
+@import "order";
+
+#logo {
+	font-size: 26px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	padding: 15px 0;
+	a {
+		color: #2F363E;
+		text-decoration: none;
+	}
+}
+
+#main_content {
+	#content {
+		float: none;
+	}
+	padding-bottom: 100px;
+}

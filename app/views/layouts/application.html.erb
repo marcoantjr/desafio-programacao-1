@@ -7,21 +7,30 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-
-    <p class="notice"><%= notice %></p>
-    <p class="alert"><%= alert %></p>
-    
-    
-         <nav class="collapse navbar-collapse navbar-ex1-collapse">
-        	<% if user_signed_in? -%>
-						<ul class="nav navbar-nav navbar-right">
-							<li><%= link_to 'Account', edit_user_registration_path %></li>
-							<li><%= link_to 'Sign out', destroy_user_session_path, :method => :delete %></li>
-						</ul>
-					<% end -%>
+  <header class="navbar navbar-default" role="navigation">
+    <div class="navbar-inner">
+      <div class="container">
+        <div id="logo" class="navbar-brand"><%= link_to "Desafio - Rails", root_path %></div>
+        <nav class="collapse navbar-collapse navbar-ex1-collapse">
+          <% if user_signed_in? -%>
+            <ul class="nav navbar-nav navbar-right">
+              <li><%= link_to 'Account', edit_user_registration_path %></li>
+              <li><%= link_to 'Sign out', destroy_user_session_path, :method => :delete %></li>
+            </ul>
+          <% end -%>
         </nav>
+      </div>
+    </div>
+  </header>
+  <div id="main_content" class="container">
+    <% flash.each do |name, msg| %>
+      <%= content_tag(:div, msg, class: "alert alert-info") %>
+    <% end %>
 
-<%= yield %>
-
+      <div id="content">
+        <%= yield %>
+      </div>
+    </div>
+  </div>
 </body>
 </html>
