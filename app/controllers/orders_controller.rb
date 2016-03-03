@@ -24,16 +24,16 @@ class OrdersController < ApplicationController
 	# If occur any error, a message is shown
 	def import
     	begin
-    		@order = Order.new(user_id: current_user.id)
-    		@order.import(params[:file])
-    		flash[:success] = "File successuly imported!"
-	    	redirect_to root_path
-    	rescue
-    		if(@file.nil?)
+    		if (file = params[:file]).nil?
     			flash[:error] = "Error: You must select a file."
     		else
-    			flash[:error] = "Error: The #{@file.original_filename} cannot be imported."
-    		end
+    			@order = Order.new(user_id: current_user.id)
+    			@order.import(file)
+    			flash[:success] = "File successuly imported!"
+	    	end
+	    	redirect_to root_path
+    	rescue
+   			flash[:error] = "Error: The #{@file.original_filename} cannot be imported."
     		@order.destroy
     		redirect_to root_path
    		end
@@ -47,6 +47,7 @@ class OrdersController < ApplicationController
 			begin
 				@order = Order.find(params[:id])
 			rescue
+				flash[:error] = "Error: The Order with id #{params[:id]} do not exists."
 				redirect_to root_path
 			end
 		end
