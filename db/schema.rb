@@ -14,15 +14,15 @@
 ActiveRecord::Schema.define(version: 20160302223047) do
 
   create_table "items", force: :cascade do |t|
-    t.string   "description"
-    t.decimal  "price",       precision: 10, scale: 2
+    t.string   "description",                          null: false
+    t.decimal  "price",       precision: 10, scale: 2, null: false
     t.datetime "created_at",                           null: false
     t.datetime "updated_at",                           null: false
   end
 
   create_table "merchants", force: :cascade do |t|
-    t.string   "name"
-    t.string   "address"
+    t.string   "name",       null: false
+    t.string   "address",    null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
@@ -31,9 +31,9 @@ ActiveRecord::Schema.define(version: 20160302223047) do
     t.integer  "purchaser_id"
     t.integer  "item_id"
     t.integer  "merchant_id"
-    t.integer  "order_id"
-    t.integer  "quantity"
-    t.decimal  "price",        precision: 10, scale: 2
+    t.integer  "order_id",                              null: false
+    t.integer  "quantity",                              null: false
+    t.decimal  "price",        precision: 10, scale: 2, null: false
     t.datetime "created_at",                            null: false
     t.datetime "updated_at",                            null: false
   end
@@ -43,15 +43,15 @@ ActiveRecord::Schema.define(version: 20160302223047) do
   add_index "order_items", ["purchaser_id"], name: "index_order_items_on_purchaser_id"
 
   create_table "orders", force: :cascade do |t|
-    t.decimal  "price",      precision: 10, scale: 2
-    t.integer  "user_id"
-    t.datetime "created_at",                          null: false
-    t.datetime "updated_at",                          null: false
-    t.string   "filename"
+    t.decimal  "price",      precision: 10, scale: 2,              null: false
+    t.integer  "user_id",                                          null: false
+    t.datetime "created_at",                                       null: false
+    t.datetime "updated_at",                                       null: false
+    t.string   "filename",                            default: "", null: false
   end
 
   create_table "purchasers", force: :cascade do |t|
-    t.string   "name"
+    t.string   "name",       null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
@@ -69,7 +69,7 @@ ActiveRecord::Schema.define(version: 20160302223047) do
     t.string   "last_sign_in_ip"
     t.datetime "created_at",                          null: false
     t.datetime "updated_at",                          null: false
-    t.string   "name"
+    t.string   "name",                   default: "", null: false
   end
 
   add_index "users", ["email"], name: "index_users_on_email", unique: true
