@@ -29,11 +29,12 @@ If you want to recreate the database, run:
 == How To Run Tests
 To perform test, you must run the Configuration step and create the test environment. You can do it with the command:
 
-	rake db:migrate RAILS_ENV=test
+	rake db:migrate && rake db:test:prepare
+
 
 Afte this, you run the rails test command as below:
 
-	rake test
+	rspec
 
 
 == Deployment Instructions

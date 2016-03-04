@@ -33,7 +33,7 @@ class OrdersController < ApplicationController
 	    	end
 	    	redirect_to root_path
     	rescue
-   			flash[:error] = "Error: The #{@file.original_filename} cannot be imported."
+   			flash[:error] = "Error: The selected file cannot be imported."
     		@order.destroy
     		redirect_to root_path
    		end
