@@ -27,7 +27,7 @@ class OrdersController < ApplicationController
     		if (file = params[:file]).nil?
     			flash[:error] = "Error: You must select a file."
     		else
-    			@order = Order.new(user_id: current_user.id)
+    			@order = current_user.order.build
     			@order.import(file)
     			flash[:success] = "File successuly imported!"
 	    	end

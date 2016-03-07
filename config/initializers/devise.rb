@@ -266,6 +266,6 @@ Devise.setup do |config|
 
   #Config for Google API
   require "omniauth-google-oauth2"
-  config.omniauth :google_oauth2, "74193557966-8m2t1j7u9eb5jd6fqidgbev6632j6ftl.apps.googleusercontent.com", "-Gq2Kl5-fKSuKgBtJfChOGlR", { }
+  config.omniauth :google_oauth2, "74193557966-8m2t1j7u9eb5jd6fqidgbev6632j6ftl.apps.googleusercontent.com", "-Gq2Kl5-fKSuKgBtJfChOGlR", {skip_jwt: true }
 
 end
