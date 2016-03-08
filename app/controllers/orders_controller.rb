@@ -3,14 +3,19 @@ class OrdersController < ApplicationController
 	before_action :authenticate_user!
 	before_action :find_order, only: [:show, :destroy]
 
+	respond_to :html
+	respond_to :json, only: [:index, :show]
+
 	# Finds all Orders to show
 	def index
 		@orders = Order.all
+		respond_with @orders
 	end
 
 	# Finds OrderItems for desidred Order
 	def show
 		@order_items = OrderItem.where(order_id: @order.id)
+		respond_with @order
 	end
 
 	# Destroy desired Order
@@ -47,7 +52,7 @@ class OrdersController < ApplicationController
 			begin
 				@order = Order.find(params[:id])
 			rescue
-				flash[:error] = "Error: The Order with id #{params[:id]} do not exists."
+				flash[:error] = "Error: The Order with id #{params[:id]} does not exists."
 				redirect_to root_path
 			end
 		end
