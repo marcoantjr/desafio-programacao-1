@@ -21,7 +21,7 @@
     </tbody>
 </table>
 <br>
-<% if @order_items.blank? %>
+<% if @order.order_item.blank? %>
 <div>
     <h4>There are no Order Items for this Order!</h4>
 </div>
@@ -42,7 +42,7 @@
     </tr>
     </thead>
     <tbody>
-        <% @order_items.each do |order_item| %>
+        <% @order.order_item.each do |order_item| %>
  			<tr class="<%= cycle('list_line_odd', 'list_line_even') %>">
  				<td class="center_cell">
  					<%=order_item.id%>
