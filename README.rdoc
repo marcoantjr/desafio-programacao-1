@@ -36,6 +36,10 @@ Afte this, you run the rails test command as below:
 
 	rspec
 
+	or, for more information:
+
+	rpsec spec --format documentation 
+
 
 == Deployment Instructions
 To deploy the application on your localhost run the following command after all steps above:

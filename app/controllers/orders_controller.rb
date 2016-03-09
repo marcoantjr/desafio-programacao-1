@@ -14,7 +14,7 @@ class OrdersController < ApplicationController
 
 	# Finds OrderItems for desidred Order
 	def show
-		@order_items = OrderItem.where(order_id: @order.id)
+		@order_items = OrderItem.where(order: @order)
 		respond_with @order
 	end
 
